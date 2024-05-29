@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="streamlit-deephaven",
-    version="0.0.6",
+    name="streamlit-deephaven-test",
+    version="0.0.2",
     author="Deephaven Data Labs",
     author_email="support@deephaven.io",
     description="Streamlit Deephaven Component",
